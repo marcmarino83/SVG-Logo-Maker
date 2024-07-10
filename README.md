@@ -18,20 +18,19 @@ To install and set up the project, follow these steps:
 
 - Clone the repository: bash
 
-- Copy code: git clone git@github.com:marcmarino83/SVG-Logo-Maker.git
+- git clone git@github.com:marcmarino83/SVG-Logo-Maker.git
 
 - Navigate to the project directory: bash
 
-- Copy code: cd svg-logo-maker
+- cd svg-logo-maker
 
 - Install the necessary dependencies: bash
 
-- Copy code: npm install
+-  npm install
 
 - Usage: To run the application, use the following command:
 
    bash
-   Copy code
    node index.js
    The application will prompt you to enter the following:
 
@@ -49,7 +48,7 @@ Features
         - Shape Color: Specify the shape color using a color keyword or hexadecimal number.
         - SVG Generation: Generates a 300x200 pixel SVG file based on the provided input.
         - Examples
-        - Example directory structure: go Copy code
+        - Example directory structure: go 
 
 
             ├── examples/           // Example svg file(s) created with the app
